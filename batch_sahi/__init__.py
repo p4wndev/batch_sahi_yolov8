@@ -1,1 +1,1 @@
-from .main import get_sliced_prediction_batched
+from .predict import get_sliced_prediction_batch
