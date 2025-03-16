@@ -6,7 +6,7 @@ from sahi_batched import get_sliced_prediction_batch
 ```
 
 ```
-Yolov8DetectionModel(
+Yolov8DetectionModelCustom(
     model_path="./yolov8n.pt",
     confidence_threshold=0.3,
     device="cuda:0",
