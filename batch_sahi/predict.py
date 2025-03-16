@@ -361,8 +361,6 @@ def get_prediction_batched(
         object_prediction_list=object_prediction_list, durations_in_seconds=durations_in_seconds
     )
 
-
-
 def get_sliced_prediction_batch(
     image,
     detection_model=None,
