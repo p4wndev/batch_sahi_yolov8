@@ -1,8 +1,8 @@
 ## Usage
 
 ```
-from sahi_batch.models import Yolov8DetectionModelCustom
-from sahi_batch import get_sliced_prediction_batch
+from batch_sahi.models import Yolov8DetectionModelCustom
+from batch_sahi import get_sliced_prediction_batch
 ```
 
 ```
